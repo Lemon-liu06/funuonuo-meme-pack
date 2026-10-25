@@ -2,14 +2,15 @@
   "maintainer": "Lemon-liu06",
   "id": "funuonuo-memes",
   "name": "弗糯糯表情包",
-  "version": "1.0.0",
-  "description": "Q版弗糯糯（鸣潮二创）表情包：呆、软、馋。共 15 张，含 2 张同系列客串角色，按情绪分类，配合“只会说糯”的人格使用。",
+  "version": "1.1.0",
+  "description": "Q版弗糯糯（鸣潮二创）表情包：呆、软、馋，偶尔调皮。共 15 张（13 张动图 + 2 张静图，含 2 张客串角色），按情绪分类，配合“只会说糯”的人格使用。",
   "license": "仅限非商业使用；素材版权归原作者",
   "tags": [
     "鸣潮",
     "弗糯糯",
     "二创",
-    "chibi"
+    "chibi",
+    "animated"
   ],
   "source": {
     "type": "github",
