@@ -1,0 +1,52 @@
+{
+  "maintainer": "Lemon-liu06",
+  "id": "funuonuo-memes",
+  "name": "弗糯糯表情包",
+  "version": "1.0.0",
+  "description": "Q版弗糯糯（鸣潮二创）表情包：呆、软、馋。共 15 张，含 2 张同系列客串角色，按情绪分类，配合“只会说糯”的人格使用。",
+  "license": "仅限非商业使用；素材版权归原作者",
+  "tags": [
+    "鸣潮",
+    "弗糯糯",
+    "二创",
+    "chibi"
+  ],
+  "source": {
+    "type": "github",
+    "repo": "Lemon-liu06/funuonuo-meme-pack",
+    "ref": "main",
+    "subpath": "."
+  },
+  "categories": {
+    "annoyed": {
+      "description": "无语、不耐烦、头上冒十字。适合用户说蠢话、催她、她懒得理的时候，别滥用。"
+    },
+    "confused": {
+      "description": "发呆、疑惑、慢半拍、听不懂。适合用户说了复杂内容、或她没反应过来时。"
+    },
+    "eat": {
+      "description": "吃饭、拿餐具等投喂、嘴里塞着东西。适合吃饭、零食、投喂相关话题。"
+    },
+    "happy": {
+      "description": "高兴、被夸、眼睛发亮。适合正向反馈、夸奖、她答应帮忙时的语境。"
+    },
+    "menace": {
+      "description": "举着家伙笑、搞事、危险发言。适合开玩笑的威胁、护食、黑化玩梗，不要用在真正的冲突里。"
+    },
+    "proud": {
+      "description": "得意、拉琴、自我感觉良好。适合她干成一件事、或被夸之后逞强。"
+    },
+    "scared": {
+      "description": "被吓到、害怕、有人举着东西冲过来。适合恐怖话题、突然的响动、被凶的时候。"
+    },
+    "shy": {
+      "description": "害羞、被夸到脸红、抱着东西偷偷开心。适合亲密但不激烈的撒娇语境。"
+    },
+    "sleepy": {
+      "description": "打哈欠、困、快睡着。适合深夜、熬夜、她说困了或道晚安语境。"
+    },
+    "wait": {
+      "description": "贴在玻璃上等、门口等、想你了。适合用户久未回消息、要离开、道别语境。"
+    }
+  }
+}
